@@ -9,6 +9,9 @@
 import Foundation
 
 // Test 001
-// Test 002
+<<<<<<< HEAD
 // Test 003
 
+=======
+// Test 002
+>>>>>>> 44661c167c1e80058597e06cbbc111e5ca23fc11
